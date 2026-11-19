@@ -1,0 +1,9 @@
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoActionBar">
+        <item name="android:windowSplashScreenBackground">#F7F7FB</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Black.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
